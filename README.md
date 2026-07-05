@@ -1,3 +1,16 @@
+# Face Mask Detection Project
+
+## Internship Details
+
+- **Internship ID:** CITS5474
+- **Intern Name:** Nirmit Kumar Bains
+- **Technology:** Python, OpenCV, TensorFlow/Keras, Matplotlib, Scikit-Learn, Numpy
+- **Organization:** Codetech IT Solutions Private Limited
+
+## Project Description
+
+This project detects whether a person is wearing a face mask or not using a deep learning model and computer vision techniques.
+
 # Face Mask Detection
 
 A Deep Learning project that detects whether a person is wearing a face mask in real time using TensorFlow, Keras, OpenCV, and MobileNetV2.
